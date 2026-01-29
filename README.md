@@ -1,7 +1,6 @@
 # 📊 Logistic Regression Insurance Prediction
 
 A simple machine learning project that uses **Logistic Regression** to predict whether a person will buy insurance based on features from a dataset. This is a **binary classification** problem where the model predicts one of two possible outcomes (e.g., buy or not buy insurance). 
----
 
 ## 🧠 Project Summary
 This project demonstrates how to:
