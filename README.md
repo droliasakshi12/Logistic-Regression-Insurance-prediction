@@ -39,3 +39,17 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 - A trained Logistic Regression model that predicts insurance purchase behavior
 - Evaluation metrics like accuracy and confusion matrix
 - Visual insights into the model’s performance
+
+
+<b><p>⭐ If you found this repository useful, consider giving it a star!</p>
+<p>Happy Coding 🐍✨</p></b>
+
+👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
+📩 Email   : sakshidrolia12@gmail.com <br>
+🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
+<h4>Credits</h4>
+<b></b>Future Vision Computer Institute</b><BR>
+🌐 Website : https://futurevisioncomputers.com/
+<br>
+<b><h5>Author</h5></b>
+<b>Sakshi Drolia</b>
